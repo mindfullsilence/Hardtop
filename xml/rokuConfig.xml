@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rokuConfig>
+    <new>false</new>
+    <videoPath>/Applications/MAMP/htdocs/roku/Movies/remuxed_movies/</videoPath>
+    <serverConf>/Applications/MAMP/conf/apache/httpd.conf</serverConf>
+    <myIp>192.168.1.7:8888</myIp>
+    <IMDb>true</IMDb>
+    <recursive>true</recursive>
+    <serverId>528ede2b2471c</serverId>
+    <version>2.1</version>
+</rokuConfig>
